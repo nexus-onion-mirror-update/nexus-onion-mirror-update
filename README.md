@@ -36,4 +36,6 @@ Since its establishment, Nexus Darknet Market has built a solid reputation based
 <a href="http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion"><img src="/vendor/capture.webp" style="max-width: 100%;"></a>
 <a href="http://nexusxsx6orlzngdmebxoglwk6xm7ceglmljaujxqgbwyrsobm6gt6ad.onion"><img src="/vendor/edge.webp" style="max-width: 100%;"></a>
 
-Update:  14.09.2025
+
+
+Update:  09/18/2025
