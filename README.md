@@ -38,4 +38,6 @@ Since its establishment, Nexus Darknet Market has built a solid reputation based
 
 
 
-Update:  09/18/2025
+
+
+Update:  01.10.2025 link is up and running again
